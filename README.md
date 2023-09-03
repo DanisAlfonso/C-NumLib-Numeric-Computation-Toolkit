@@ -17,3 +17,14 @@ Before you begin, make sure you have the following prerequisites installed on yo
    git clone https://github.com/DanisAlfonso/NumLib.git
    cd NumLib
 
+## To build the project
+
+Create a build directory and run CMake:
+
+mkdir build
+cd build
+cmake ..
+
+## Build the project:
+
+cmake --build .
