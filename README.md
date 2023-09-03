@@ -14,6 +14,6 @@ Before you begin, make sure you have the following prerequisites installed on yo
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/DanisAlfonso/CPP-NumLib-Numeric-Computation-Toolkit.git
+   git clone https://github.com/DanisAlfonso/NumLib.git
    cd NumLib
 
