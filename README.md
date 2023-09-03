@@ -1,1 +1,1 @@
-# C-NumLib-Your-Numeric-Computation-Toolkit
+# C++NumLib: Numeric Computation Toolkit
