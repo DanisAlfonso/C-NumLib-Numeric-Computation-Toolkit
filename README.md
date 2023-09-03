@@ -21,12 +21,8 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
 Create a build directory and run CMake:
 
-```bash
-mkdir build
-cd build
-cmake ..
+   ```bash
+   mkdir build
+   cd build
+   cmake ..
 
-## Build the project:
-
-```bash
-cmake --build .
